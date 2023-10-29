@@ -38,6 +38,7 @@ resource "aws_autoscaling_group" "default" {
             max = 4
           }
 
+
           spot_max_price_percentage_over_lowest_price = 100
         }
       }
