@@ -1,4 +1,4 @@
-# hello-ecs
+# hello-spot
 
 experiments with AWS Spot instances
 
